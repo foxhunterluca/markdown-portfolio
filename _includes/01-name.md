@@ -1,1 +1,1 @@
-# King abi.
+# King abi
